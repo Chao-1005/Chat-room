@@ -1,2 +1,2 @@
 # Chat-room
-A one-to-many chat room written in Java
+A one-to-many chat room written in Java.
